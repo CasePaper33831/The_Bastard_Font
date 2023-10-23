@@ -1,3 +1,6 @@
+'''
+TODO: make loop (if font does not work, default to main font)'''
+
 from tkinter import Tk, simpledialog, Toplevel, Text
 from PIL import Image, ImageDraw, ImageFont
 import random
